@@ -1,4 +1,4 @@
-# Jungle Army :
+# Kill Shot :
 A shooting game.
 
 
